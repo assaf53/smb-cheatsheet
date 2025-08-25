@@ -1,9 +1,5 @@
 # SMB Exploitation — Cheat Sheet
 
-✨ *Link for the full article in the first comment*
-
-Ever wondered how hackers can steal files, upload malware, or even take full control of a Windows network without touching a single USB stick? The answer often lies in one of the oldest - yet still dangerously common - protocols: **SMB**.  
-
 This cheat sheet summarizes real SMB hacking techniques — from reconnaissance to full system compromise — with ready-to-use commands you can test in your own lab.
 
 ---
